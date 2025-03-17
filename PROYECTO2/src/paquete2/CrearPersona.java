@@ -24,6 +24,9 @@ public class CrearPersona {
 		
 		Estudiante estudiante5 = new Estudiante("Pepe", 18, "D45678");
 		estudiante5.mostrarInformacion();
+		
+		Estudiante estudiante6 = new Estudiante("Lalo", 19, "Z22222");
+		estudiante6.mostrarInformacion();
 	}
 
 }

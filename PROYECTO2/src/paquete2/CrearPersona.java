@@ -8,6 +8,10 @@ public class CrearPersona {
 		
 		Persona persona2 = new Persona("Juan", 27);
 		persona2.mostrarInformacion();
+		
+		System.out.println("----------------------------------------");
+		System.out.println("Estudiantes");
+		System.out.println("-----------");
 	}
 
 }

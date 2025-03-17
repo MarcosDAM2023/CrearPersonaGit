@@ -22,7 +22,8 @@ public class CrearPersona {
 		Estudiante estudiante3 = new Estudiante("Lisa", 21, "C11223");	
 		estudiante3.mostrarInformacion();
 		
-		System.out.println("-----FIN-----");
+		Estudiante estudiante5 = new Estudiante("Pepe", 18, "D45678");
+		estudiante5.mostrarInformacion();
 	}
 
 }
